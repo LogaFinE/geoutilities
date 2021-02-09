@@ -1,0 +1,3 @@
+include ':geoutilities'
+include ':app'
+rootProject.name = "GeoUtilities"
