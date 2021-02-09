@@ -1,0 +1,3 @@
+# geoutilities
+Geo utilities
+- calculateDistance
